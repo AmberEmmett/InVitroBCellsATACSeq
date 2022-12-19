@@ -1,0 +1,277 @@
+_ 1671450882348
+altSeqLiftOverPsl hide
+c chr6
+cartVersion 3
+centerLabels 1
+clade mammal
+db hg38
+dbSnp155Common_sel 0
+dinkL 2.0
+dinkR 2.0
+enableHighlightingDialog 1
+encodeCcreCombined_imgOrd 20
+exonNumbers 1
+expOrder_cons100way phyloP100way 
+expOrder_hub_624329_Day0-12h-BC_A hub_624329_Day0-12h-BC_A 
+expOrder_hub_624329_Day0-12h-BC_B hub_624329_Day0-12h-BC_B 
+expOrder_hub_624329_Day0-2h30-BC_A hub_624329_Day0-2h30-BC_A 
+expOrder_hub_624329_Day0-2h30-BC_B hub_624329_Day0-2h30-BC_B 
+expOrder_hub_624329_Day0-30min-BC_A hub_624329_Day0-30min-BC_A 
+expOrder_hub_624329_Day0-30min-BC_B hub_624329_Day0-30min-BC_B 
+expOrder_hub_624329_Day0BC_A hub_624329_Day0BC_A 
+expOrder_hub_624329_Day0BC_B hub_624329_Day0BC_B 
+expOrder_hub_624329_Day0BC_C hub_624329_Day0BC_C 
+expOrder_hub_624329_Day10PC_A hub_624329_Day10PC_A 
+expOrder_hub_624329_Day10PC_C hub_624329_Day10PC_C 
+expOrder_hub_624329_Day13PC_A hub_624329_Day13PC_A 
+expOrder_hub_624329_Day13PC_C hub_624329_Day13PC_C 
+expOrder_hub_624329_Day1BC_A hub_624329_Day1BC_A 
+expOrder_hub_624329_Day3ABC_A hub_624329_Day3ABC_A 
+expOrder_hub_624329_Day3ABC_B hub_624329_Day3ABC_B 
+expOrder_hub_624329_Day3ABC_C hub_624329_Day3ABC_C 
+expOrder_hub_624329_Day6PB_A hub_624329_Day6PB_A 
+expOrder_hub_624329_Day6PB_C hub_624329_Day6PB_C 
+expOrder_wgEncodeReg wgEncodeRegDnaseWig wgEncodeRegMarkH3k27ac wgEncodeRegTxn 
+fixSeqLiftOverPsl hide
+gtexGeneV8 hide
+guidelines 1
+hgFind.matches ENST00000652320.1
+hgHubConnect.hub.624329 1
+hgS_loadUrlName 
+hgS_otherUserName 
+hgS_otherUserSessionName 
+hgS_saveLocalFileCompress none
+hgS_saveLocalFileName InVitroBCellsATACSeq
+hgsid 292910532_mZGWF6Udo2bXdztCnrsSEWUiyKkL
+hgt.labelWidth 20
+hgt_ 1670972840
+hgtgroup_compGeno_close 0
+hgtgroup_covid_close 0
+hgtgroup_expression_close 0
+hgtgroup_genes_close 0
+hgtgroup_hub_624329_close 0
+hgtgroup_map_close 0
+hgtgroup_phenDis_close 0
+hgtgroup_regulation_close 0
+hgtgroup_rep_close 0
+hgtgroup_rna_close 0
+hgtgroup_singleCell_close 0
+hgtgroup_varRep_close 0
+hub_621110_Day0-12h-BC_A full
+hub_621110_Day0-12h-BC_B full
+hub_621110_Day0-2h30-BC_A full
+hub_621110_Day0-2h30-BC_B full
+hub_621110_Day0-30min-BC_A full
+hub_621110_Day0-30min-BC_B full
+hub_621110_Day0BC_A full
+hub_621110_Day0BC_B full
+hub_621110_Day0BC_C full
+hub_621110_Day10PC_A full
+hub_621110_Day10PC_C full
+hub_621110_Day13PC_A full
+hub_621110_Day13PC_C full
+hub_621110_Day1BC_A full
+hub_621110_Day3BC_A full
+hub_621110_Day3BC_B full
+hub_621110_Day3BC_C full
+hub_621110_Day6PB_A full
+hub_621110_Day6PB_C full
+hub_624329_Day0-12h-BC_A full
+hub_624329_Day0-12h-BC_A.autoScale auto-scale to data view
+hub_624329_Day0-12h-BC_A.heightPer 30
+hub_624329_Day0-12h-BC_A_imgOrd 7
+hub_624329_Day0-12h-BC_B full
+hub_624329_Day0-12h-BC_B.autoScale auto-scale to data view
+hub_624329_Day0-12h-BC_B.heightPer 30
+hub_624329_Day0-12h-BC_B_imgOrd 8
+hub_624329_Day0-2h30-BC_A full
+hub_624329_Day0-2h30-BC_A.autoScale auto-scale to data view
+hub_624329_Day0-2h30-BC_A.heightPer 30
+hub_624329_Day0-2h30-BC_A_imgOrd 5
+hub_624329_Day0-2h30-BC_B full
+hub_624329_Day0-2h30-BC_B.autoScale auto-scale to data view
+hub_624329_Day0-2h30-BC_B.heightPer 30
+hub_624329_Day0-2h30-BC_B_imgOrd 6
+hub_624329_Day0-30min-BC_A full
+hub_624329_Day0-30min-BC_A.autoScale auto-scale to data view
+hub_624329_Day0-30min-BC_A.heightPer 30
+hub_624329_Day0-30min-BC_A_imgOrd 3
+hub_624329_Day0-30min-BC_B full
+hub_624329_Day0-30min-BC_B.autoScale auto-scale to data view
+hub_624329_Day0-30min-BC_B.heightPer 30
+hub_624329_Day0-30min-BC_B_imgOrd 4
+hub_624329_Day0BC_A full
+hub_624329_Day0BC_A.autoScale auto-scale to data view
+hub_624329_Day0BC_A.heightPer 30
+hub_624329_Day0BC_A_imgOrd 0
+hub_624329_Day0BC_B full
+hub_624329_Day0BC_B.autoScale auto-scale to data view
+hub_624329_Day0BC_B.heightPer 30
+hub_624329_Day0BC_B_imgOrd 1
+hub_624329_Day0BC_C full
+hub_624329_Day0BC_C.autoScale auto-scale to data view
+hub_624329_Day0BC_C.heightPer 30
+hub_624329_Day0BC_C_imgOrd 2
+hub_624329_Day10PC_A full
+hub_624329_Day10PC_A.autoScale auto-scale to data view
+hub_624329_Day10PC_A.heightPer 30
+hub_624329_Day10PC_A_imgOrd 15
+hub_624329_Day10PC_C full
+hub_624329_Day10PC_C.autoScale auto-scale to data view
+hub_624329_Day10PC_C.heightPer 30
+hub_624329_Day10PC_C_imgOrd 16
+hub_624329_Day13PC_A full
+hub_624329_Day13PC_A.autoScale auto-scale to data view
+hub_624329_Day13PC_A.heightPer 30
+hub_624329_Day13PC_A_imgOrd 17
+hub_624329_Day13PC_C full
+hub_624329_Day13PC_C.autoScale auto-scale to data view
+hub_624329_Day13PC_C.heightPer 30
+hub_624329_Day13PC_C_imgOrd 18
+hub_624329_Day1BC_A full
+hub_624329_Day1BC_A.autoScale auto-scale to data view
+hub_624329_Day1BC_A.heightPer 30
+hub_624329_Day1BC_A_imgOrd 9
+hub_624329_Day3ABC_A full
+hub_624329_Day3ABC_A.autoScale auto-scale to data view
+hub_624329_Day3ABC_A.heightPer 30
+hub_624329_Day3ABC_A_imgOrd 10
+hub_624329_Day3ABC_B full
+hub_624329_Day3ABC_B.autoScale auto-scale to data view
+hub_624329_Day3ABC_B.heightPer 30
+hub_624329_Day3ABC_B_imgOrd 11
+hub_624329_Day3ABC_C full
+hub_624329_Day3ABC_C.autoScale auto-scale to data view
+hub_624329_Day3ABC_C.heightPer 30
+hub_624329_Day3ABC_C_imgOrd 12
+hub_624329_Day6PB_A full
+hub_624329_Day6PB_A.autoScale auto-scale to data view
+hub_624329_Day6PB_A.heightPer 30
+hub_624329_Day6PB_A_imgOrd 13
+hub_624329_Day6PB_C full
+hub_624329_Day6PB_C.autoScale auto-scale to data view
+hub_624329_Day6PB_C.heightPer 30
+hub_624329_Day6PB_C.maxY 127
+hub_624329_Day6PB_C_imgOrd 14
+ideogram 1
+jsh_pageVertPos 0
+knownGene_imgOrd 19
+l 105915603
+lastPosition chr6:105915604-106230090
+lastVirtModeExtraState 
+lastVirtModeType default
+leftLabels 1
+multiz100way_sel 0
+ncbiRefSeqCurated_sel 0
+nextExonArrows 1
+nextItemArrows 0
+o 106055375
+oldPosition chr6:105915604-106230090
+omimAvSnp hide
+org Human
+phyloP100way_imgOrd 24
+phyloP100way_sel 0
+pix 1499
+position chr6:105915604-106230090
+position.hg38 lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr6%3A105915604%2D106230090
+r 106230090
+redirect manual
+rmsk hide
+ruler hide
+search prdm1
+simOrder_cons100way phyloP100way 
+simOrder_hub_624329_Day0-12h-BC_A hub_624329_Day0-12h-BC_A 
+simOrder_hub_624329_Day0-12h-BC_B hub_624329_Day0-12h-BC_B 
+simOrder_hub_624329_Day0-2h30-BC_A hub_624329_Day0-2h30-BC_A 
+simOrder_hub_624329_Day0-2h30-BC_B hub_624329_Day0-2h30-BC_B 
+simOrder_hub_624329_Day0-30min-BC_A hub_624329_Day0-30min-BC_A 
+simOrder_hub_624329_Day0-30min-BC_B hub_624329_Day0-30min-BC_B 
+simOrder_hub_624329_Day0BC_A hub_624329_Day0BC_A 
+simOrder_hub_624329_Day0BC_B hub_624329_Day0BC_B 
+simOrder_hub_624329_Day0BC_C hub_624329_Day0BC_C 
+simOrder_hub_624329_Day10PC_A hub_624329_Day10PC_A 
+simOrder_hub_624329_Day10PC_C hub_624329_Day10PC_C 
+simOrder_hub_624329_Day13PC_A hub_624329_Day13PC_A 
+simOrder_hub_624329_Day13PC_C hub_624329_Day13PC_C 
+simOrder_hub_624329_Day1BC_A hub_624329_Day1BC_A 
+simOrder_hub_624329_Day3ABC_A hub_624329_Day3ABC_A 
+simOrder_hub_624329_Day3ABC_B hub_624329_Day3ABC_B 
+simOrder_hub_624329_Day3ABC_C hub_624329_Day3ABC_C 
+simOrder_hub_624329_Day6PB_A hub_624329_Day6PB_A 
+simOrder_hub_624329_Day6PB_C hub_624329_Day6PB_C 
+simOrder_wgEncodeReg wgEncodeRegDnaseWig wgEncodeRegMarkH3k27ac wgEncodeRegTxn 
+source genome.ucsc.edu
+t 106090318
+textFont Helvetica
+textSize 12
+textStyle Normal
+tgpTrios hide
+topSubmit submit
+trackControlsOnMain 1
+trackHubs 624329
+tsCurTab simpleTab
+tsDescr 
+tsGroup Any
+tsIncludePublicHubs 0
+tsName 
+tsSimple Day0BC_A
+tsType Any
+validateHubUrl https://github.com/AmberEmmett/B-Cell-ATAC-seq-Tracks
+virtMode 0
+virtModeType default
+wgEncodeRegDnaseWig_imgOrd 23
+wgEncodeRegMarkH3k27ac_imgOrd 22
+wgEncodeRegTxn_imgOrd 21
+lincRNAsAllCellTypeTopView dense
+dbSnp155Composite pack
+dbSnp153Composite pack
+cons100way full
+cpgIslandExt pack
+encodeCcreCombined dense
+knownGene pack
+gnomadGenomesVariantsV3_1_1 squish
+jarvis dense
+wgEncodeReg full
+wgEncodeRegTxn full
+wgEncodeRegMarkH3k27ac full
+wgEncodeRegDnaseWig full
+hmc dense
+refSeqComposite dense
+transMapEnsemblV5 pack
+transMapRefSeqV5 pack
+ukbDepletion dense
+wgEncodeGencodeV42 pack
+affyGnf1h pack
+affyU133 pack
+affyU95 pack
+augustusGene pack
+bismap full
+bloodHaoCellType pack
+cadd dense
+tcgaGeneExpr pack
+tcgaTranscExpr pack
+cytoBandIdeo dense
+colonWangCellType pack
+cortexVelmeshevCellType pack
+dbVar_common pack
+dbVar_conflict pack
+caddDel dense
+fetalGeneAtlasCellType pack
+heartAtlasCellTypes pack
+ileumWangCellType pack
+caddIns dense
+kidneyStewartCellType pack
+lincRNAsTranscripts pack
+liverMacParlandCellType pack
+lungTravaglini2020CellType10x pack
+mastermind dense
+muscleDeMicheliCellType pack
+pancreasBaronCellType pack
+placentaVentoTormoCellType10x pack
+placentaVentoTormoLocation10x pack
+placentaVentoTormoLocationSs2 pack
+rectumWangCellType pack
+skinSoleBoldoCellType pack
+tabulaSapiensTissueCellType pack
+umap full
+defaultsSet on
